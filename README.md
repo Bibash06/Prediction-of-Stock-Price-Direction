@@ -23,6 +23,8 @@ Low - the lowest stock price on a given day
 Close - stock price at the end of a trading day
 Adj Close - adjusted closing price that takes into account corporate actions
 Volume - the amount of shares traded over the course of a trading day
-Practicalities
 
+
+
+.Practicalities
 Define, train and evaluate a predictive model that takes as the input the data provided. Do not use external data for this project. You may use any algorithm of your choice or compare multiple models.
