@@ -1,17 +1,5 @@
 # Prediction-of-Stock-Price-Direction
 
-## Table of Contents
-
-1. [Assignment](#assignment)
-2. [Data Exploration](#data-exploration)
-3. [Feature Engineering](#feature-engineering)
-4. [Classical Machine Learning Algorithms](#classical-machine-learning-algorithms)
-   - [Logistic Regression](#logistic-regression)
-   - [Decision Tree](#decision-tree)
-   - [Random Forest](#random-forest)
-   - [Gradient Boosting Ensemble](#gradient-boosting-ensemble)
-5. [Deep Learning Algorithm](#deep-learning-algorithm)
-6. [Conclusion](#conclusion)
 
 ---
 
