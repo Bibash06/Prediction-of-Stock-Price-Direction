@@ -30,5 +30,3 @@ In our initial exploration, we load the datasets and analyze the data attributes
 ## Conclusion
 
 The gradient boosting classifier yielded the best AUC score on the validation set. The next section evaluates its performance on the test set and includes a feature importance analysis.
-
-This README provides a comprehensive overview of the data project, from initial exploration to classical machine learning and deep learning models, concluding with the best-performing model's evaluation on the test set and feature importance analysis.
